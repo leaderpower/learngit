@@ -1,23 +1,4 @@
-
-
-
 Git is a distributed version control system.
-Git is free software.
-Apend cdc cc  ccdcc cc.
-Dxww cdd cdc ddccc.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Git is free software distributed under the GPL.
